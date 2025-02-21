@@ -1,0 +1,889 @@
+{
+  "registers": {
+    "charmander": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1739903305360,
+        "caughtTimestamp": 1739903305360
+      }
+    },
+    "treecko": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1739907959965,
+        "caughtTimestamp": 1739907959965
+      }
+    },
+    "bouffalant": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1739907963377,
+        "caughtTimestamp": 1739931993880
+      }
+    },
+    "crabrawler": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1739907985356
+      }
+    },
+    "krabby": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1739907987731,
+        "caughtTimestamp": 1739931828128
+      }
+    },
+    "magikarp": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1739909581826,
+        "caughtTimestamp": 1739909581826
+      }
+    },
+    "meowth": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1739909895822,
+        "caughtTimestamp": 1739909895822
+      }
+    },
+    "honchkrow": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1739910374074,
+        "caughtTimestamp": 1739910374074
+      }
+    },
+    "flabebe": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1739911027827,
+        "caughtTimestamp": 1739911027827
+      }
+    },
+    "floette": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1739911039046,
+        "caughtTimestamp": 1739911039046
+      }
+    },
+    "pidgey": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1739912353284,
+        "caughtTimestamp": 1739912353284
+      }
+    },
+    "pidgeotto": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1739912363033,
+        "caughtTimestamp": 1739912363033
+      }
+    },
+    "growlithe": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1739912715257,
+        "caughtTimestamp": 1739912715257
+      }
+    },
+    "gyarados": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1739914316983,
+        "caughtTimestamp": 1739914316983
+      }
+    },
+    "arcanine": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1739914600521,
+        "caughtTimestamp": 1739914600521
+      }
+    },
+    "dachsbun": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1739914813583,
+        "caughtTimestamp": 1739914813583
+      }
+    },
+    "lillipup": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1739915716823,
+        "caughtTimestamp": 1739915716823
+      }
+    },
+    "granbull": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1739915743728,
+        "caughtTimestamp": 1739915743728
+      }
+    },
+    "timburr": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1739915850956,
+        "caughtTimestamp": 1739915850956
+      }
+    },
+    "gurdurr": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1739915868385,
+        "caughtTimestamp": 1739915868385
+      }
+    },
+    "heracross": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1739917029277,
+        "caughtTimestamp": 1739917029277
+      }
+    },
+    "ninetales": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1739919188172,
+        "caughtTimestamp": 1739919188172
+      }
+    },
+    "charmeleon": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1739919994337,
+        "caughtTimestamp": 1739919994337
+      }
+    },
+    "froakie": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1739920113872,
+        "caughtTimestamp": 1739920113872
+      }
+    },
+    "deerling": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1739920251979
+      }
+    },
+    "basculin": {
+      "bluestriped": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1739920269229
+      }
+    },
+    "sentret": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1739920284898,
+        "caughtTimestamp": 1740010974028
+      }
+    },
+    "fidough": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1739920428931
+      }
+    },
+    "squawkabilly": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1739920660189,
+        "caughtTimestamp": 1739943191634
+      }
+    },
+    "buneary": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1739920766628,
+        "caughtTimestamp": 1740036256792
+      }
+    },
+    "bunnelby": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1739920768821,
+        "caughtTimestamp": 1739932047770
+      }
+    },
+    "nickit": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1739920994832
+      }
+    },
+    "grovyle": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1739930026663,
+        "caughtTimestamp": 1739930026663
+      }
+    },
+    "buizel": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1739931334338,
+        "caughtTimestamp": 1739931334338
+      }
+    },
+    "floatzel": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1739931377763,
+        "caughtTimestamp": 1739931377763
+      }
+    },
+    "taillow": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1739931811973,
+        "caughtTimestamp": 1739931811973
+      }
+    },
+    "mareep": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1739931823836,
+        "caughtTimestamp": 1739931823836
+      }
+    },
+    "yungoos": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1739931904320,
+        "caughtTimestamp": 1739931904320
+      }
+    },
+    "mudbray": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1739933389073,
+        "caughtTimestamp": 1739933389073
+      }
+    },
+    "flaaffy": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1739935918633,
+        "caughtTimestamp": 1739935918633
+      }
+    },
+    "murkrow": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1739936640788,
+        "caughtTimestamp": 1739936640788
+      }
+    },
+    "lopunny": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1739936749565,
+        "caughtTimestamp": 1739936749565
+      }
+    },
+    "crobat": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1739936986143,
+        "caughtTimestamp": 1739936986143
+      }
+    },
+    "fletchinder": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1739938354038,
+        "caughtTimestamp": 1739938354038
+      }
+    },
+    "metapod": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1739938720732,
+        "caughtTimestamp": 1739938720732
+      }
+    },
+    "ditto": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1739938781600,
+        "caughtTimestamp": 1739938781600
+      }
+    },
+    "mudsdale": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1739939138692,
+        "caughtTimestamp": 1739939138692
+      }
+    },
+    "diggersby": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1739939367946,
+        "caughtTimestamp": 1739939367946
+      }
+    },
+    "vivillon": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1739940222740,
+        "caughtTimestamp": 1739940222740
+      }
+    },
+    "gastly": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1739941004890,
+        "caughtTimestamp": 1739941004890
+      }
+    },
+    "misdreavus": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1739941657995,
+        "caughtTimestamp": 1739941657995
+      }
+    },
+    "onix": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1739942687698,
+        "caughtTimestamp": 1739942687698
+      }
+    },
+    "psyduck": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1739943004748,
+        "caughtTimestamp": 1739943004748
+      }
+    },
+    "golduck": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1739943107868,
+        "caughtTimestamp": 1739943107868
+      }
+    },
+    "chansey": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1739943373846,
+        "caughtTimestamp": 1739943373846
+      }
+    },
+    "caterpie": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1739944478944,
+        "caughtTimestamp": 1739944478944
+      }
+    },
+    "koffing": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1739944499108,
+        "caughtTimestamp": 1739944499108
+      }
+    },
+    "durant": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1739945186500,
+        "caughtTimestamp": 1739945186500
+      }
+    },
+    "drowzee": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1739945520571,
+        "caughtTimestamp": 1739945520571
+      }
+    },
+    "stonjourner": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1739946115324,
+        "caughtTimestamp": 1739946115324
+      }
+    },
+    "machop": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1739946304872,
+        "caughtTimestamp": 1739946304872
+      }
+    },
+    "pidgeot": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1739946406350,
+        "caughtTimestamp": 1739946406350
+      }
+    },
+    "comfey": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1739948378398,
+        "caughtTimestamp": 1739948378398
+      }
+    },
+    "bibarel": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1739948591918,
+        "caughtTimestamp": 1739948591918
+      }
+    },
+    "pineco": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1739949514725,
+        "caughtTimestamp": 1739949514725
+      }
+    },
+    "phantump": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1739949529180,
+        "caughtTimestamp": 1739949529180
+      }
+    },
+    "swellow": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1739949778183,
+        "caughtTimestamp": 1739949778183
+      }
+    },
+    "bisharp": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1739950438025,
+        "caughtTimestamp": 1739950438025
+      }
+    },
+    "abra": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1739950441852,
+        "caughtTimestamp": 1739950441852
+      }
+    },
+    "zubat": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1739950558392,
+        "caughtTimestamp": 1739950558392
+      }
+    },
+    "ursaring": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1739950960562,
+        "caughtTimestamp": 1739950960562
+      }
+    },
+    "thievul": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1739951600941,
+        "caughtTimestamp": 1739951600941
+      }
+    },
+    "whirlipede": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1739952151198,
+        "caughtTimestamp": 1739952151198
+      }
+    },
+    "charizard": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1739952766670,
+        "caughtTimestamp": 1739952766670
+      }
+    },
+    "oinkologne": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1739954759878,
+        "caughtTimestamp": 1739954759878
+      }
+    },
+    "ponyta": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1739956073439,
+        "caughtTimestamp": 1739956073439
+      }
+    },
+    "arbok": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1739956139330,
+        "caughtTimestamp": 1739956139330
+      }
+    },
+    "seadra": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1739961108214,
+        "caughtTimestamp": 1739961108214
+      }
+    },
+    "pelipper": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1739984383816,
+        "caughtTimestamp": 1739984383816
+      }
+    },
+    "phanpy": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1739990139468,
+        "caughtTimestamp": 1739990139468
+      }
+    },
+    "snorunt": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1739992862939,
+        "caughtTimestamp": 1739992862939
+      }
+    },
+    "slowbro": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1739994691661,
+        "caughtTimestamp": 1739994691661
+      }
+    },
+    "rookidee": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1739996046602,
+        "caughtTimestamp": 1739996046602
+      }
+    },
+    "petilil": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1739996579068,
+        "caughtTimestamp": 1739996579068
+      }
+    },
+    "mawile": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1739998996854,
+        "caughtTimestamp": 1739998996854
+      }
+    },
+    "ampharos": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1740013878267,
+        "caughtTimestamp": 1740013878267
+      }
+    },
+    "litten": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1740015014363,
+        "caughtTimestamp": 1740015014363
+      }
+    },
+    "mabosstiff": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1740015081604,
+        "caughtTimestamp": 1740015081604
+      }
+    },
+    "kakuna": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1740015266290
+      }
+    },
+    "mimejr": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1740016137732
+      }
+    },
+    "jellicent": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1740016865559,
+        "caughtTimestamp": 1740016865559
+      }
+    },
+    "wailmer": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1740018551973,
+        "caughtTimestamp": 1740018551973
+      }
+    },
+    "frillish": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1740025537909,
+        "caughtTimestamp": 1740025537909
+      }
+    },
+    "weezing": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1740026443378,
+        "caughtTimestamp": 1740026500569
+      }
+    },
+    "miltank": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1740026574320,
+        "caughtTimestamp": 1740026574320
+      }
+    },
+    "corvisquire": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1740026666771,
+        "caughtTimestamp": 1740026666771
+      }
+    },
+    "hariyama": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1740026780837,
+        "caughtTimestamp": 1740026823193
+      }
+    },
+    "gumshoos": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1740027618980,
+        "caughtTimestamp": 1740027742743
+      }
+    },
+    "pidove": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1740027800771,
+        "caughtTimestamp": 1740027800771
+      }
+    },
+    "carnivine": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1740027963187
+      }
+    },
+    "lapras": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1740029775431,
+        "caughtTimestamp": 1740029799095
+      }
+    },
+    "cacnea": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1740031910367,
+        "caughtTimestamp": 1740031910367
+      }
+    },
+    "numel": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1740032035110,
+        "caughtTimestamp": 1740032035110
+      }
+    },
+    "donphan": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1740034532668,
+        "caughtTimestamp": 1740034532668
+      }
+    },
+    "spearow": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1740034833985,
+        "caughtTimestamp": 1740034833985
+      }
+    },
+    "eevee": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1740039155132,
+        "caughtTimestamp": 1740039155132
+      }
+    },
+    "geodude": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1740070526730,
+        "caughtTimestamp": 1740070526730
+      }
+    },
+    "makuhita": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1740071465877,
+        "caughtTimestamp": 1740071465877
+      }
+    },
+    "wooloo": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1740077067892
+      }
+    },
+    "patrat": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1740082170961,
+        "caughtTimestamp": 1740082170961
+      }
+    },
+    "slowking": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1740085388061
+      }
+    },
+    "duskull": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1740091241001
+      }
+    }
+  }
+}
